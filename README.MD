@@ -2,8 +2,8 @@
 
 This repository contains three separate implementations of a **Ticket Management Web Application** — each built with a different frontend framework:
 
-1. [React Version](./react-app/README.md)
-2. [Vue.js Version](./vue-app/README.md)
+1. [React Version](./ticket_app_react/README.md)
+2. [Vue.js Version](./ticket_app_vue/README.md)
 
 All implementations share the **same layout, structure, and design**, ensuring a consistent user experience across frameworks.
 
@@ -29,10 +29,7 @@ Each version enforces:
 
 ---
 
-## 📚 Framework Docs
-- [React README](./react-app/README.md)
-- [Vue README](./vue-app/README.md)
-- [Twig README](./twig-app/README.md)
+
 
 Each README includes:
 - Frameworks and libraries used
@@ -52,5 +49,5 @@ All three implementations:
 
 ---
 
-**Author:** [Your Name]  
+**Author:** [JUTIN]  
 **Project Stage:** Frontend Stage 2 — Multi-Framework Ticket Web App
